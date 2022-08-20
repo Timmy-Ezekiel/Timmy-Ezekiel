@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hey there, I'm Oluwatuyi Timilehin 👋<br><br>🎡 I'm a Front-end developer and am currently learning more about Software Engineering at ALX<br>👩‍💻 I'm looking for help with Exploring New Technologies.<br>I'm also available for collaboration as web developer who is efficient in jquery, javascript, html, css and bootstrap.
+Hey there, I'm Oluwatuyi Timilehin 👋<br><br>🎡 I'm a Front-end developer and am currently learning Software Engineering at ALX<br>👩‍💻 I'm looking for help with Exploring New Technologies.<br>I'm also available for collaboration as web developer who is efficient in jquery, javascript, html, css and bootstrap.
 
 
 
