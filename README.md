@@ -11,7 +11,7 @@ Hey there, I'm Oluwatuyi Timilehin 👋<br><br>🎡 I'm a Front-end developer an
 ~ Good work Ethics.
 
 # Social
-[LinkedIn] https://www.linkedin.com/in/timilehin-oluwatuyi
+[LinkedIn] https://www.linkedin.com/in/timilehin-oluwatuyi <br>
 [twitter] @OluwatuyiTimil1
 
 
